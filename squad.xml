@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+
+<squad nick="YOURTAG">
+    <name>Your Squad Name</name>
+    <email></email>
+    <web></web>
+    <picture>Daly-logo.paa</picture>
+    <title>Your Squad Name</title>
+
+    <member id="76561198079465199" nick="Daly_Mail">
+        <name>Your Arma Name</name>
+        <email></email>
+        <icq></icq>
+        <remark>Squad Member</remark>
+    </member>
+</squad>
+
